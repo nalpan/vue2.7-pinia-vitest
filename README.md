@@ -1,0 +1,3 @@
+# testing
+
+`$ npm run test`
